@@ -64,10 +64,12 @@ Developed by: ANBUDURAI A
 
 RegisterNumber:24013673
 **RTL LOGIC FOR FLIPFLOPS**
-![image](https://github.com/user-attachments/assets/d589fc2f-4738-4bb6-9781-692f07250077)
+![image](https://github.com/user-attachments/assets/02c621de-2330-4d97-86b8-9fdc83d990d0)
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![image](https://github.com/user-attachments/assets/48611ec6-fb87-4a88-a3f7-2484ce6928cc)
+![image](https://github.com/user-attachments/assets/ab4fcf4f-9424-407e-b27b-9d1c3de94665)
+
 
 **RESULTS**
 
