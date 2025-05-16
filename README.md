@@ -62,7 +62,8 @@ module jk_ff (j, k, clk, rst, q);
 
 Developed by: ANBUDURAI A
 
-RegisterNumber:24013673
+RegisterNumber:212224230018
+
 **RTL LOGIC FOR FLIPFLOPS**
 ![image](https://github.com/user-attachments/assets/02c621de-2330-4d97-86b8-9fdc83d990d0)
 
